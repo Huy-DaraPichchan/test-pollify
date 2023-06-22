@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/test-pollify/static/css/main.5c0c98cc.css",
+    "main.js": "/test-pollify/static/js/main.f25fa331.js",
+    "static/media/Frame1000013728.png": "/test-pollify/static/media/Frame1000013728.1d6741ed56ff082cf306.png",
+    "static/media/Frame1000013729.png": "/test-pollify/static/media/Frame1000013729.194873551f0265c01166.png",
+    "static/media/Frame1000013730.png": "/test-pollify/static/media/Frame1000013730.1e13d53e05496e534640.png",
+    "index.html": "/test-pollify/index.html",
+    "main.5c0c98cc.css.map": "/test-pollify/static/css/main.5c0c98cc.css.map",
+    "main.f25fa331.js.map": "/test-pollify/static/js/main.f25fa331.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c0c98cc.css",
+    "static/js/main.f25fa331.js"
+  ]
+}
